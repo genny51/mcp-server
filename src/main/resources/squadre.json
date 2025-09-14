@@ -1,0 +1,130 @@
+{
+  "squadre": [
+    {
+      "nome": "Atalanta",
+      "città": "Bergamo",
+      "stadio ufficiale": "Stadio Atleti Azzurri d'Italia",
+      "allenatore": "Ivan Jurić"
+    },
+    {
+      "nome": "Bologna",
+      "città": "Bologna",
+      "stadio ufficiale": "Stadio Renato Dall'Ara",
+      "allenatore": "Vincenzo Italiano"
+    },
+    {
+      "nome": "Cagliari",
+      "città": "Cagliari",
+      "stadio ufficiale": "Unipol Domus",
+      "allenatore": "Fabio Pisacane"
+    },
+    {
+      "nome": "Como",
+      "città": "Como",
+      "stadio ufficiale": "Stadio Giuseppe Sinigaglia",
+      "allenatore": "Cesc Fàbregas"
+    },
+    {
+      "nome": "Cremonese",
+      "città": "Cremona",
+      "stadio ufficiale": "Stadio Giovanni Zini",
+      "allenatore": "Davide Nicola"
+    },
+    {
+      "nome": "Fiorentina",
+      "città": "Firenze",
+      "stadio ufficiale": "Stadio Artemio Franchi",
+      "allenatore": "Stefano Pioli"
+    },
+    {
+      "nome": "Genoa",
+      "città": "Genova",
+      "stadio ufficiale": "Stadio Luigi Ferraris",
+      "allenatore": "Patrick Vieira"
+    },
+    {
+      "nome": "Inter",
+      "città": "Milano",
+      "stadio ufficiale": "Stadio Giuseppe Meazza",
+      "allenatore": "Cristian Chivu"
+    },
+    {
+      "nome": "Juventus",
+      "città": "Torino",
+      "stadio ufficiale": "Juventus Stadium (Allianz Stadium)",
+      "allenatore": "Igor Tudor"
+    },
+    {
+      "nome": "Lazio",
+      "città": "Roma",
+      "stadio ufficiale": "Stadio Olimpico",
+      "allenatore": "Maurizio Sarri"
+    },
+    {
+      "nome": "Lecce",
+      "città": "Lecce",
+      "stadio ufficiale": "Stadio Via del Mare",
+      "allenatore": "Eusebio Di Francesco"
+    },
+    {
+      "nome": "Milan",
+      "città": "Milano",
+      "stadio ufficiale": "Stadio Giuseppe Meazza",
+      "allenatore": "Massimiliano Allegri"
+    },
+    {
+      "nome": "Napoli",
+      "città": "Napoli",
+      "stadio ufficiale": "Stadio Diego Armando Maradona",
+      "allenatore": "Antonio Conte"
+    },
+    {
+      "nome": "Parma",
+      "città": "Parma",
+      "stadio ufficiale": "Stadio Ennio Tardini",
+      "allenatore": "Carlos Cuesta"
+    },
+    {
+      "nome": "Pisa",
+      "città": "Pisa",
+      "stadio ufficiale": "Cetilar Arena",
+      "allenatore": "Alberto Gilardino"
+    },
+    {
+      "nome": "Roma",
+      "città": "Roma",
+      "stadio ufficiale": "Stadio Olimpico",
+      "allenatore": "Gian Piero Gasperini"
+    },
+    {
+      "nome": "Sassuolo",
+      "città": "Sassuolo",
+      "stadio ufficiale": "Mapei Stadium – Città del Tricolore",
+      "allenatore": "Fabio Grosso"
+    },
+    {
+      "nome": "Torino",
+      "città": "Torino",
+      "stadio ufficiale": "Stadio Olimpico Grande Torino",
+      "allenatore": "Marco Baroni"
+    },
+    {
+      "nome": "Udinese",
+      "città": "Udine",
+      "stadio ufficiale": "Stadio Friuli",
+      "allenatore": "Kosta Runjaic"
+    },
+    {
+      "nome": "Verona",
+      "città": "Verona",
+      "stadio ufficiale": "Stadio Marcantonio Bentegodi",
+      "allenatore": "Paolo Zanetti"
+    },
+    {
+      "nome": "Melitopoli",
+      "città": "Melito di Napoli",
+      "stadio ufficiale": "Stadio Gennaro Maisto",
+      "allenatore": "Raffaele Maisto"
+    }
+  ]
+}
